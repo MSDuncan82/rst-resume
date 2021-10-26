@@ -8,18 +8,18 @@
     size: A4
     width: null
     height: null
-    margin-top: 0.25cm
-    margin-bottom: 0.25cm
-    margin-left: 0.25cm
-    margin-right: 0.25cm
+    margin-top: 1.5cm
+    margin-bottom: 2cm
+    margin-left: 2cm
+    margin-right: 2cm
     margin-gutter: 0cm
-    spacing-header: 5mm
-    spacing-footer: 5mm
+    spacing-header: 0mm
+    spacing-footer: 0mm
 
     # The first template is one of the 'pageTemplates"
     # (See next section)
 
-    firstTemplate: oneColumn
+    firstTemplate: emptyPage
 
   # pageTemplates can be accessed with the .. raw:: pdf PageBreak command
 
@@ -86,14 +86,14 @@
     base:
       parent: null
       fontName: stdFont
-      fontSize: 10
+      fontSize: 11
       leading: 12
       leftIndent: 0
       rightIndent: 0
       firstLineIndent: 0
       alignment: TA_LEFT
-      spaceBefore: 0
-      spaceAfter: 0
+      spaceBefore: 1
+      spaceAfter: 1
       bulletFontName: stdFont
       bulletFontSize: 10
       bulletIndent: 0
@@ -111,6 +111,8 @@
       underline: false
       strike: false
       commands: []
+      spaceBefore: 0
+      spaceAfter: 0
 
     normal:
       parent: base
@@ -121,9 +123,10 @@
 
     bodytext:
       parent: normal
-      spaceBefore: 6
-      alignment: TA_JUSTIFY
+      alignment: TA_LEFT
       hyphenation: true
+      spaceBefore: 1
+      spaceAfter: 1
 
     toc:
       parent: normal
@@ -134,10 +137,13 @@
 
     lineblock:
       parent: bodytext
+      spaceBefore: 2
+      spaceAfter: 2
 
     line:
       parent: lineblock
-      spaceBefore: 0
+      spaceBefore: 2
+      spaceAfter: 2
 
     toc1:
       parent: toc
@@ -237,9 +243,13 @@
              [VALIGN, [ 0, 0 ], [ -1, -1 ], TOP ]
              [RIGHTPADDING, [ 0, 0 ], [ 1, -1 ], 0 ]
       colWidths: ["20", null]
+      spaceBefore: 0
+      spaceAfter: 0
 
     bullet-list-item:
       parent: bodytext
+      spaceBefore: 0
+      spaceAfter: 0
 
     item-list:
       parent: bodytext
@@ -254,7 +264,7 @@
     definition-list-term:
       parent: normal
       fontName: stdBold
-      spaceBefore: 4
+      spaceBefore: 0
       spaceAfter: 0
       keepWithNext: false
 
@@ -281,6 +291,22 @@
 
     fieldvalue:
       parent: bodytext
+      alignment: TA_RIGHT
+      fontName: stdBold
+
+    jobtitle:
+      parent: bodytext
+      alignment: TA_LEFT
+      fontName: stdBoldItalic
+      spaceBefore: 0
+      spaceAfter: 0
+
+    jobdates:
+      parent: bodytext
+      alignment: TA_RIGHT
+      fontName: stdItalic
+      spaceBefore: 0
+      spaceAfter: 0
 
     rubric:
       parent: bodytext
@@ -294,15 +320,16 @@
     heading:
       parent: normal
       keepWithNext: true
-      spaceBefore: 12
-      spaceAfter: 6
+      spaceBefore: 0
+      spaceAfter: 5
 
     title:
       parent: heading
       fontName: stdBold
-      fontSize: 200%
+      fontSize: 170%
       alignment: TA_LEFT
       keepWithNext: false
+      spaceBefore: 0
       spaceAfter: 0
 
     subtitle:
@@ -310,12 +337,15 @@
       fontName: stdItalic
       alignment: TA_LEFT
       spaceBefore: 0
-      fontSize: 75%
+      spaceAfter: 0
+      fontSize: 70%
 
     heading1:
       parent: heading
       fontName: stdBold
-      fontSize: 175%
+      fontSize: 135%
+      spaceBefore: 0
+      spaceAfter: 5
 
     heading2:
       parent: heading
@@ -343,7 +373,7 @@
       parent: title
       fontName: stdItalic
       alignment: TA_LEFT
-      spaceBefore: 0
+      spaceBefore: 2
       fontSize: 75%
 
     sidebar-title:
@@ -439,12 +469,12 @@
       hyphenation: false
       wordWrap: null
 
-    aafigure:
+    figure:
       parent: literal
 
     table:
-      spaceBefore:6
-      spaceAfter:0
+      spaceBefore: 2
+      spaceAfter: 2
       alignment: TA_LEFT
       commands: []
              [VALIGN, [ 0, 0 ], [ -1, -1 ], TOP ]

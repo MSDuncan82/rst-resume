@@ -2,7 +2,7 @@
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 14 0 R
 >>
 endobj
 2 0 obj
@@ -88,19 +88,17 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (mailto:msduncan82@gmail.com)
->> /Border [ 0 0 0 ] /Rect [ 24.37055 754.6299 137.3306 766.6299 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 74.25485 741.0221 198.5109 754.2221 ] /Subtype /Link /Type /Annot
 >>
 endobj
 14 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (http://www.cincom.com)
->> /Border [ 0 0 0 ] /Rect [ 210.846 655.6299 242.516 667.6299 ] /Subtype /Link /Type /Annot
+/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
 >>
 endobj
 15 0 obj
 <<
-/Annots [ 13 0 R 14 0 R ] /Contents 21 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
+/Annots [ 13 0 R ] /Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 23 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
 /FormXob.ad4a590ca7bc0a6b9f4ff2e9a089e36e 11 0 R /FormXob.bb0f0d1a12832b67b489577c4df236cf 7 0 R /FormXob.ca3d8cf18ba702c462e8bd9c19d3f0c2 5 0 R /FormXob.f1ad951d1f0ce9e9c110a8a0a833e7c8 9 0 R
 >>
@@ -112,197 +110,731 @@ endobj
 endobj
 16 0 obj
 <<
-/Outlines 18 0 R /PageLabels 22 0 R /PageMode /UseNone /Pages 20 0 R /Type /Catalog
+/Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 23 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 17 0 obj
 <<
-/Author () /CreationDate (D:20211010122251+07'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20211010122251+07'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Michael Duncan) /Trapped /False
+/Outlines 19 0 R /PageLabels 26 0 R /PageMode /UseNone /Pages 23 0 R /Type /Catalog
 >>
 endobj
 18 0 obj
 <<
-/Count 1 /First 19 0 R /Last 19 0 R /Type /Outlines
+/Author () /CreationDate (D:20211025200919+07'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20211025200919+07'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Michael Duncan) /Trapped /False
 >>
 endobj
 19 0 obj
 <<
-/Dest [ 15 0 R /XYZ 13.08661 742.6299 0 ] /Parent 18 0 R /Title (Education)
+/Count 3 /First 20 0 R /Last 22 0 R /Type /Outlines
 >>
 endobj
 20 0 obj
 <<
-/Count 1 /Kids [ 15 0 R ] /Type /Pages
+/Dest [ 15 0 R /XYZ 62.69291 712.8756 0 ] /Next 21 0 R /Parent 19 0 R /Title (Experience)
 >>
 endobj
 21 0 obj
 <<
-/Length 2134
+/Dest [ 15 0 R /XYZ 62.69291 358.0556 0 ] /Next 22 0 R /Parent 19 0 R /Prev 20 0 R /Title (Skills)
 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 13.08661 790.6299 cm
-q
-BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf 0 0 0 rg (Michael Duncan) Tj T* ET
-Q
-Q
-q
-1 0 0 1 13.08661 772.6299 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 15 Tf 18 TL (Machine Learning Engineer) Tj T* ET
-Q
-Q
-q
-1 0 0 1 13.08661 754.6299 cm
-q
-q
-8.503937 0 0 8.503937 0 0 cm
-/FormXob.ca3d8cf18ba702c462e8bd9c19d3f0c2 Do
-Q
-q
-8.503937 0 0 8.503937 132.4039 0 cm
-/FormXob.bb0f0d1a12832b67b489577c4df236cf Do
-Q
-q
-8.503937 0 0 8.503937 214.1079 0 cm
-/FormXob.f1ad951d1f0ce9e9c110a8a0a833e7c8 Do
-Q
-q
-8.503937 0 0 8.503937 290.8018 0 cm
-/FormXob.ad4a590ca7bc0a6b9f4ff2e9a089e36e Do
-Q
-BT 1 0 0 1 0 2 Tm 12 TL 8.503937 0 Td /F1 10 Tf 0 0 0 rg ( ) Tj 0 0 .501961 rg (msduncan82@gmail.com) Tj 0 0 0 rg ( | ) Tj 132.4039 0 Td ( 406-546-0438 | ) Tj 81.70394 0 Td ( msduncan82 | ) Tj 76.69394 0 Td ( michaelsduncan) Tj T* -299.3057 0 Td ET
-Q
-Q
-q
-1 0 0 1 13.08661 721.6299 cm
-q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
-Q
-Q
-q
-1 0 0 1 13.08661 709.6299 cm
-Q
-q
-1 0 0 1 13.08661 694.6299 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2005-2006:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 91.03937 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Exchange student in the Technical University of Dresden, Germany.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 13.08661 667.6299 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 15 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2000-2006:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 91.03937 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.346083 Tw (Master's Degree \(Dipl\303\264me d'Ing\303\251nieur\) in Computer Science at the National Institute of Applied) Tj T* 0 Tw (Sciences \(INSA\) of Lyon,) Tj T* ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 13.08661 640.6299 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL (2003 \(3) Tj T* (months\):) Tj T* ET
-Q
-Q
-q
-1 0 0 1 91.03937 15 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Traineeships student at ) Tj 0 0 .501961 rg (cincom) Tj 0 0 0 rg ( in Lyon, France. Porting a c/c++ program from Windows to Linux.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-Q
- 
-endstream
 endobj
 22 0 obj
 <<
-/Nums [ 0 23 0 R ]
+/Dest [ 15 0 R /XYZ 62.69291 208.2356 0 ] /Parent 19 0 R /Prev 21 0 R /Title (Education)
 >>
 endobj
 23 0 obj
 <<
+/Count 2 /Kids [ 15 0 R 16 0 R ] /Type /Pages
+>>
+endobj
+24 0 obj
+<<
+/Length 9647
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 770.9301 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.74 Tm /F2 18.7 Tf 22.44 TL (Michael Duncan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 755.2221 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.618 Tm /F3 13.09 Tf 15.708 TL (Machine Learning Engineer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 742.2221 cm
+q
+q
+8.503937 0 0 8.503937 0 -1.2 cm
+/FormXob.ca3d8cf18ba702c462e8bd9c19d3f0c2 Do
+Q
+q
+8.503937 0 0 8.503937 144.7939 -1.2 cm
+/FormXob.bb0f0d1a12832b67b489577c4df236cf Do
+Q
+q
+8.503937 0 0 8.503937 233.8179 -1.2 cm
+/FormXob.f1ad951d1f0ce9e9c110a8a0a833e7c8 Do
+Q
+q
+8.503937 0 0 8.503937 317.3308 -1.2 cm
+/FormXob.ad4a590ca7bc0a6b9f4ff2e9a089e36e Do
+Q
+BT 1 0 0 1 0 1 Tm 12 TL 8.503937 0 Td /F1 11 Tf 0 0 0 rg ( ) Tj 0 0 .501961 rg (msduncan82@gmail.com) Tj 0 0 0 rg ( | ) Tj 144.7939 0 Td ( 406-546-0438 | ) Tj 89.02394 0 Td ( msduncan82 | ) Tj 83.51294 0 Td ( michaelsduncan) Tj T* -325.8347 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 712.8756 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 695.0556 cm
+q
+BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (Experience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0556 cm
+q
+BT 1 0 0 1 0 1 Tm 12 TL /F4 11 Tf 0 0 0 rg (Machine Learning Engineer) Tj /F1 11 Tf ( ) Tj /F3 11 Tf (Sept 2020 - Present) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 665.0556 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (DispatchHealth | Denver, CO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 664.0556 cm
+Q
+q
+1 0 0 1 62.69291 664.0556 cm
+Q
+q
+1 0 0 1 62.69291 628.0556 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 25 Tm /F1 11 Tf 12 TL (Developed a new regression model with XGBoost to predict how long a provider will be) Tj T* (on-scene, reduced the RMSE by 20% and created a more robust API with Kibana for) Tj T* (monitoring) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 628.0556 cm
+Q
+q
+1 0 0 1 62.69291 604.0556 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL (Built 10+ data pipelines using Apache Airflow, dbt and Prefect leveraging AWS Fargate) Tj T* (containers) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 604.0556 cm
+Q
+q
+1 0 0 1 62.69291 580.0556 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL (Used ElasticSearch and Kibana to analyze logging data and Looker to monitor model) Tj T* (performance) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 580.0556 cm
+Q
+q
+1 0 0 1 62.69291 568.0556 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Created Python packages for tools to be used across the company) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 568.0556 cm
+Q
+q
+1 0 0 1 62.69291 566.0556 cm
+Q
+q
+1 0 0 1 62.69291 552.0556 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 548.0556 cm
+Q
+q
+1 0 0 1 62.69291 535.0556 cm
+q
+BT 1 0 0 1 0 1 Tm 12 TL /F4 11 Tf 0 0 0 rg (Associate Data Science Instructor & Data Science Resident) Tj /F1 11 Tf ( ) Tj /F3 11 Tf (March 2020 - Sept 2020) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 522.0556 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Galvanize Inc. | Denver, CO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 521.0556 cm
+Q
+q
+1 0 0 1 62.69291 521.0556 cm
+Q
+q
+1 0 0 1 62.69291 497.0556 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL (Performed lectures and helped students in the Data Science Immersive \(DSI\) and with) Tj T* (Python) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 497.0556 cm
+Q
+q
+1 0 0 1 62.69291 495.0556 cm
+Q
+q
+1 0 0 1 62.69291 481.0556 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 477.0556 cm
+Q
+q
+1 0 0 1 62.69291 464.0556 cm
+q
+BT 1 0 0 1 0 1 Tm 12 TL /F4 11 Tf 0 0 0 rg (Data Scientist) Tj /F1 11 Tf ( ) Tj /F3 11 Tf (November 2019 - March 2020) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 451.0556 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (El Cap | Denver, CO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 450.0556 cm
+Q
+q
+1 0 0 1 62.69291 450.0556 cm
+Q
+q
+1 0 0 1 62.69291 426.0556 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL (Performed a customer segmentation analysis for climbing gym customers in the Denver) Tj T* (area) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 426.0556 cm
+Q
+q
+1 0 0 1 62.69291 402.0556 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL (Developed a cannibalization model in order to predict the effects of opening new gym) Tj T* (locations) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 402.0556 cm
+Q
+q
+1 0 0 1 62.69291 390.0556 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Model predicted member cannibalization with 75% accuracy) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 390.0556 cm
+Q
+q
+1 0 0 1 62.69291 378.0556 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Used geospatial analysis to featurize customer behavior) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 378.0556 cm
+Q
+q
+1 0 0 1 62.69291 376.0556 cm
+Q
+q
+1 0 0 1 62.69291 362.0556 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 358.0556 cm
+Q
+q
+1 0 0 1 62.69291 340.2356 cm
+q
+BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (Skills) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 323.2356 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F4 11 Tf 12 TL (Programming:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 321.2356 cm
+Q
+q
+1 0 0 1 62.69291 309.2356 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Python, SQL, Bash, VCS \(git\), Pandas, Numpy, Jupyter Notebooks, Python packaging, Vim) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 308.2356 cm
+Q
+q
+1 0 0 1 62.69291 295.2356 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F4 11 Tf 12 TL (Data Science:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 293.2356 cm
+Q
+q
+1 0 0 1 62.69291 269.2356 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL (Matplotlib, Scikit-learn, XGBoost, Data Wrangling, Statistical Modeling, Ensemble Models,) Tj T* (Clustering Methods, Looker) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 268.2356 cm
+Q
+q
+1 0 0 1 62.69291 255.2356 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F4 11 Tf 12 TL (Data Engineering:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 253.2356 cm
+Q
+q
+1 0 0 1 62.69291 229.2356 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL (Apache Airflow, Prefect, dbt, AWS, GCP, Linux, Docker, PostgreSQL, MongoDB, Terraform,) Tj T* (Spark, FastAPI, Flask, Kibana, ElasticSearch, Web Scraping) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 228.2356 cm
+Q
+q
+1 0 0 1 62.69291 226.2356 cm
+Q
+q
+1 0 0 1 62.69291 212.2356 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 208.2356 cm
+Q
+q
+1 0 0 1 62.69291 190.4156 cm
+q
+BT 1 0 0 1 0 2.97 Tm 17.82 TL /F2 14.85 Tf 0 0 0 rg (Education) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 173.4156 cm
+q
+BT 1 0 0 1 0 1 Tm 12 TL /F4 11 Tf 0 0 0 rg (Data Science Immersive \(Bootcamp\)) Tj /F1 11 Tf ( ) Tj /F3 11 Tf (2019 - 2020) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 160.4156 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Galvanize Inc. | Denver, CO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 159.4156 cm
+Q
+q
+1 0 0 1 62.69291 159.4156 cm
+Q
+q
+1 0 0 1 62.69291 123.4156 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 25 Tm /F1 11 Tf 12 TL (13-week immersive with 700+ hours of coding, weekly Case Studies, and 3 capstone) Tj T* (projects. Python-based curriculum focused on machine learning and best practices in) Tj T* (statistical analysis.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 123.4156 cm
+Q
+q
+1 0 0 1 62.69291 121.4156 cm
+Q
+q
+1 0 0 1 62.69291 107.4156 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 103.4156 cm
+Q
+q
+1 0 0 1 62.69291 90.41562 cm
+q
+BT 1 0 0 1 0 1 Tm 12 TL /F4 11 Tf 0 0 0 rg (B.S. Mechanical Engineering) Tj /F1 11 Tf ( ) Tj /F3 11 Tf (2011 - 2015) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 77.41562 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Lafayette College | Easton, PA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 76.41562 cm
+Q
+q
+1 0 0 1 62.69291 76.41562 cm
+Q
+q
+1 0 0 1 62.69291 64.41562 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 10.15 0 Td (\177) Tj T* -10.15 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (NCAA Division 1 Football Player) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 64.41562 cm
+Q
+q
+1 0 0 1 62.69291 62.69291 cm
+Q
+ 
+endstream
+endobj
+25 0 obj
+<<
+/Length 168
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 781.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 777.3701 cm
+Q
+ 
+endstream
+endobj
+26 0 obj
+<<
+/Nums [ 0 27 0 R 1 28 0 R ]
+>>
+endobj
+27 0 obj
+<<
 /S /D /St 1
 >>
 endobj
+28 0 obj
+<<
+/S /D /St 2
+>>
+endobj
 xref
-0 24
+0 29
 0000000000 65535 f 
 0000000073 00000 n 
-0000000124 00000 n 
-0000000231 00000 n 
-0000000343 00000 n 
-0000000458 00000 n 
-0000006751 00000 n 
-0000016525 00000 n 
-0000022293 00000 n 
-0000030110 00000 n 
-0000036062 00000 n 
-0000045545 00000 n 
-0000052417 00000 n 
-0000057753 00000 n 
-0000057933 00000 n 
-0000058105 00000 n 
-0000058545 00000 n 
-0000058651 00000 n 
-0000058923 00000 n 
-0000058997 00000 n 
-0000059095 00000 n 
-0000059156 00000 n 
-0000061342 00000 n 
-0000061383 00000 n 
+0000000135 00000 n 
+0000000242 00000 n 
+0000000354 00000 n 
+0000000469 00000 n 
+0000006762 00000 n 
+0000016536 00000 n 
+0000022304 00000 n 
+0000030121 00000 n 
+0000036073 00000 n 
+0000045556 00000 n 
+0000052428 00000 n 
+0000057764 00000 n 
+0000057944 00000 n 
+0000058064 00000 n 
+0000058497 00000 n 
+0000058703 00000 n 
+0000058809 00000 n 
+0000059081 00000 n 
+0000059155 00000 n 
+0000059267 00000 n 
+0000059388 00000 n 
+0000059499 00000 n 
+0000059567 00000 n 
+0000069266 00000 n 
+0000069485 00000 n 
+0000069535 00000 n 
+0000069569 00000 n 
 trailer
 <<
 /ID 
-[<a72a663da6755832b8de304ddf49a997><a72a663da6755832b8de304ddf49a997>]
+[<82a300c202a4228c8dd7726da8574b9e><82a300c202a4228c8dd7726da8574b9e>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 17 0 R
-/Root 16 0 R
-/Size 24
+/Info 18 0 R
+/Root 17 0 R
+/Size 29
 >>
 startxref
-61417
+69603
 %%EOF

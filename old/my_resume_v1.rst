@@ -71,23 +71,44 @@ El Cap | Denver, CO
 
 | 
 
+:jobtitle:`Home Inspector` :jobdates:`January 2016 - October 2018`
+
+Advantage Inspection | Missoula, MT	                                                                                            		          
+
+* Communicated technical construction information to clients with a variety of construction knowledge with reports and in-person walk-throughs
+
+|
+
+:jobtitle:`Field Engineer` :jobdates:`May 2015 - January 2016`
+
+Weeks Marine| Cranford, NJ				                                                                   		         
+
+* Planned, supervised and executed work plans on my own and with project teams. Projects from $1M to $30M
+* Communicated regularly with upper management and laborers to bridge the gap in communication.
+
+|
+
+Projects
+---------
+
+:jobtitle:`Analyzing and Predicting Climbing Gym Users' Behavior`
+
+* Partnered with a local climbing gym to complete an analysis on gym users' behavior
+* Built a data pipeline using PostgreSQL to clean, organize and store the data
+* Performed hypothesis testing to determine if weather has a significant effect on check-ins
+* Completed a customer segmentation analysis using k-Means for future use in prediction models
+* Created a cannibalization prediction model that predicted gym user churn with 75% accuracy
+
+|
 
 Skills
 ---------
 
-:jobtitle:`Programming:` 
-    
-    Python, SQL, Bash, VCS (git), Pandas, Numpy, Jupyter Notebooks, Python packaging, Vim
+:jobtitle:`Programming:` Python, SQL, Bash, VCS (git), Pandas, Numpy, Jupyter Notebooks, Python packaging, Vim
 
-:jobtitle:`Data Science:` 
-    
-    Matplotlib, Scikit-learn, XGBoost, Data Wrangling, Statistical Modeling, Ensemble Models, Clustering Methods, 
-    Looker
+:jobtitle:`Data Science:` Matplotlib, Scikit-learn, XGBoost, Data Wrangling, Statistical Modeling, Ensemble Models, Clustering Methods
 
-:jobtitle:`Data Engineering:` 
-    
-    Apache Airflow, Prefect, dbt, AWS, GCP, Linux, Docker, PostgreSQL, MongoDB, Terraform, Spark, FastAPI, Flask, 
-    Kibana, ElasticSearch, Web Scraping
+:jobtitle:`Data Engineering:` Apache Airflow, Prefect, dbt, AWS, GCP, Linux, Docker, PostgreSQL, MongoDB, Terraform, Spark
 
 |
 
