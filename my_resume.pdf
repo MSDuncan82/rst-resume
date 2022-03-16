@@ -98,7 +98,7 @@ endobj
 endobj
 15 0 obj
 <<
-/Annots [ 13 0 R ] /Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 23 0 R /Resources <<
+/Annots [ 13 0 R ] /Contents 23 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 22 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
 /FormXob.ad4a590ca7bc0a6b9f4ff2e9a089e36e 11 0 R /FormXob.bb0f0d1a12832b67b489577c4df236cf 7 0 R /FormXob.ca3d8cf18ba702c462e8bd9c19d3f0c2 5 0 R /FormXob.f1ad951d1f0ce9e9c110a8a0a833e7c8 9 0 R
 >>
@@ -110,53 +110,43 @@ endobj
 endobj
 16 0 obj
 <<
-/Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 23 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Outlines 18 0 R /PageLabels 24 0 R /PageMode /UseNone /Pages 22 0 R /Type /Catalog
 >>
 endobj
 17 0 obj
 <<
-/Outlines 19 0 R /PageLabels 26 0 R /PageMode /UseNone /Pages 23 0 R /Type /Catalog
+/Author () /CreationDate (D:20220316080556+07'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20220316080556+07'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Michael Duncan) /Trapped /False
 >>
 endobj
 18 0 obj
 <<
-/Author () /CreationDate (D:20220316080146+07'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20220316080146+07'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Michael Duncan) /Trapped /False
+/Count 3 /First 19 0 R /Last 21 0 R /Type /Outlines
 >>
 endobj
 19 0 obj
 <<
-/Count 3 /First 20 0 R /Last 22 0 R /Type /Outlines
+/Dest [ 15 0 R /XYZ 62.69291 712.8756 0 ] /Next 20 0 R /Parent 18 0 R /Title (Experience)
 >>
 endobj
 20 0 obj
 <<
-/Dest [ 15 0 R /XYZ 62.69291 712.8756 0 ] /Next 21 0 R /Parent 19 0 R /Title (Experience)
+/Dest [ 15 0 R /XYZ 62.69291 358.0556 0 ] /Next 21 0 R /Parent 18 0 R /Prev 19 0 R /Title (Skills)
 >>
 endobj
 21 0 obj
 <<
-/Dest [ 15 0 R /XYZ 62.69291 358.0556 0 ] /Next 22 0 R /Parent 19 0 R /Prev 20 0 R /Title (Skills)
+/Dest [ 15 0 R /XYZ 62.69291 208.2356 0 ] /Parent 18 0 R /Prev 20 0 R /Title (Education)
 >>
 endobj
 22 0 obj
 <<
-/Dest [ 15 0 R /XYZ 62.69291 208.2356 0 ] /Parent 19 0 R /Prev 21 0 R /Title (Education)
+/Count 1 /Kids [ 15 0 R ] /Type /Pages
 >>
 endobj
 23 0 obj
 <<
-/Count 2 /Kids [ 15 0 R 16 0 R ] /Type /Pages
->>
-endobj
-24 0 obj
-<<
-/Length 9743
+/Length 9762
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -377,7 +367,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL (Performed lectures and helped students in the Data Science Immersive \(DSI\) and with) Tj T* (Python) Tj T* ET
+BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL (Performed lectures and helped students in the Data Science Immersive \(DSI\) with Python,) Tj T* (SQL, Docker, Bash, and other data science technologies) Tj T* ET
 Q
 Q
 q
@@ -754,48 +744,21 @@ Q
 q
 1 0 0 1 62.69291 64.41562 cm
 Q
-q
-1 0 0 1 62.69291 62.69291 cm
-Q
  
 endstream
+endobj
+24 0 obj
+<<
+/Nums [ 0 25 0 R ]
+>>
 endobj
 25 0 obj
-<<
-/Length 168
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 781.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL ( ) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 777.3701 cm
-Q
- 
-endstream
-endobj
-26 0 obj
-<<
-/Nums [ 0 27 0 R 1 28 0 R ]
->>
-endobj
-27 0 obj
 <<
 /S /D /St 1
 >>
 endobj
-28 0 obj
-<<
-/S /D /St 2
->>
-endobj
 xref
-0 29
+0 26
 0000000000 65535 f 
 0000000073 00000 n 
 0000000135 00000 n 
@@ -813,28 +776,25 @@ xref
 0000057944 00000 n 
 0000058064 00000 n 
 0000058497 00000 n 
-0000058703 00000 n 
-0000058809 00000 n 
-0000059081 00000 n 
-0000059155 00000 n 
-0000059267 00000 n 
-0000059388 00000 n 
-0000059499 00000 n 
-0000059567 00000 n 
-0000069362 00000 n 
-0000069581 00000 n 
-0000069631 00000 n 
-0000069665 00000 n 
+0000058603 00000 n 
+0000058875 00000 n 
+0000058949 00000 n 
+0000059061 00000 n 
+0000059182 00000 n 
+0000059293 00000 n 
+0000059354 00000 n 
+0000069168 00000 n 
+0000069209 00000 n 
 trailer
 <<
 /ID 
-[<13f0289a47f6137e9d41d4c9756d2ffb><13f0289a47f6137e9d41d4c9756d2ffb>]
+[<4f69897dd963e623c0043f5c50ecc8d5><4f69897dd963e623c0043f5c50ecc8d5>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 18 0 R
-/Root 17 0 R
-/Size 29
+/Info 17 0 R
+/Root 16 0 R
+/Size 26
 >>
 startxref
-69699
+69243
 %%EOF

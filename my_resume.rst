@@ -56,7 +56,7 @@ DispatchHealth | Denver, CO
 
 Galvanize Inc. | Denver, CO
 
-* Performed lectures and helped students in the Data Science Immersive (DSI) and with Python
+* Performed lectures and helped students in the Data Science Immersive (DSI) with Python, SQL, Docker, Bash, and other data science technologies
 
 |
 
@@ -107,5 +107,3 @@ Galvanize Inc. | Denver, CO
 Lafayette College | Easton, PA                                  	
 
 * NCAA Division 1 Football Player
-
-|
