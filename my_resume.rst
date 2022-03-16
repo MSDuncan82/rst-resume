@@ -45,10 +45,9 @@ Experience
 
 DispatchHealth | Denver, CO
 
-* Developed a new regression model with XGBoost to predict how long a provider will be on-scene, reduced the RMSE by 20% and created a more robust API with Kibana for monitoring
-* Built 10+ data pipelines using Apache Airflow, dbt and Prefect leveraging AWS Fargate containers
-* Used ElasticSearch and Kibana to analyze logging data and Looker to monitor model performance
-* Created Python packages for tools to be used across the company
+* Developed a new regression model with XGBoost to predict how long a provider will be on-scene, reduced the RMSE by 20% and deployed the model to a more robust API
+* Built 10+ ELT data pipelines using Apache Airflow, dbt and Prefect leveraging AWS Fargate containers, AWS Glue, AWS Athena and Redshift
+* Used ElasticSearch and Kibana to analyze logging data and Looker to communicate model performance
 
 |
 
