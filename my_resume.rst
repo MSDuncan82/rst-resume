@@ -45,9 +45,10 @@ Experience
 
 DispatchHealth | Denver, CO
 
-* Developed a new XGBoost regression model to predict how long a provider will be on scene, reduced the RMSE by 20%, and created an API
-* Built 15+ ELT data pipelines using Apache Airflow, dbt, and Prefect leveraging AWS services like Redshift, ECS, and others
+* Developed a new XGBoost regression model to predict how long a provider will be on scene, reduced the RMSE by 20%, and created a new API with FastAPI
+* Built 15+ ELT data pipelines using Apache Airflow, dbt, and Prefect leveraging AWS services like Redshift, ECS, S3, Glue, and others
 * Used ElasticSearch and Kibana to analyze logging data and Looker to communicate model performance
+* Created dbt models with SQL and jinja to transform 10+ data sources into efficient Redshift tables used by Looker, Data Analytics and Data Science
 
 |
 
