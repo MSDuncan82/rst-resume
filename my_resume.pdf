@@ -115,7 +115,7 @@ endobj
 endobj
 17 0 obj
 <<
-/Author () /CreationDate (D:20220315200335+07'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20220315200335+07'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20220315200851+07'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20220315200851+07'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Michael Duncan) /Trapped /False
 >>
 endobj
@@ -257,7 +257,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL (Built 15+ ELT data pipelines using Apache Airflow, dbt and Prefect leveraging AWS) Tj T* (services like Redshift, ECS, and others.) Tj T* ET
+BT 1 0 0 1 0 13 Tm /F1 11 Tf 12 TL (Built 15+ ELT data pipelines using Apache Airflow, dbt, and Prefect leveraging AWS) Tj T* (services like Redshift, ECS, and others) Tj T* ET
 Q
 Q
 q
@@ -775,7 +775,7 @@ xref
 trailer
 <<
 /ID 
-[<cd707a542323a36a4e3d61c0b22c8717><cd707a542323a36a4e3d61c0b22c8717>]
+[<694f2228f3c629ab2c549933e369b3ab><694f2228f3c629ab2c549933e369b3ab>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 17 0 R
